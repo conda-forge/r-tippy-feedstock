@@ -1,11 +1,11 @@
-About r-tippy
-=============
+About r-tippy-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tippy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://tippy.john-coene.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tippy-feedstock/blob/main/LICENSE.txt)
 
 Summary: 'Htmlwidget' of 'Tippyjs' to add tooltips to 'Shiny' apps and 'R markdown' documents.
 
